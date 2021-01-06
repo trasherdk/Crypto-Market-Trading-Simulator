@@ -38,7 +38,11 @@
         "semi": [
             "error",
             "always"
-        ],
-        "prettier/prettier": "error"
-    }
+        ]
+    },
+    "parserOptions": {
+        "sourceType": "module",
+        "allowImportExportEverywhere": true
+    },
+    "prettier/prettier": "error"
 }
