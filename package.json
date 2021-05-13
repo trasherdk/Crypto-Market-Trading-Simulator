@@ -4,8 +4,8 @@
   "description": "Project 2 Starter",
   "main": "server.js",
   "engines": {
-    "node": "8.1.1",
-    "npm": "5.0.3"
+    "node": ">=12.22.1",
+    "npm": ">=6.0.0"
   },
   "scripts": {
     "start": "node server.js",
